@@ -7,14 +7,6 @@ set -e
 set -o pipefail
 
 boxes="
-    kemumaki-6.4-x86_64.kvm.box
-    kemumaki-6.5-x86_64.kvm.box
-    kemumaki-6.6-x86_64.kvm.box
- lxckemumaki-6.6-x86_64.kvm.box
-  vzkemumaki-6.6-x86_64.kvm.box
-     minimal-6.3-x86_64.kvm.box
-     minimal-6.4-x86_64.kvm.box
-     minimal-6.5-x86_64.kvm.box
      minimal-6.6-x86_64.kvm.box
 "
 
